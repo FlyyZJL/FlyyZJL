@@ -3,5 +3,5 @@
 ### 你好，世界 👋
 
 - :orange_book: My blog:https://flyyz.cn/
-- 
+- ⚡ Java / Python
 - :meat_on_bone: Anime lover

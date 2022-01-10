@@ -3,6 +3,6 @@
 ### 你好，世界 👋
 
 - :orange_book::[My blog](https://flyyz.cn/)
-- ✨About me:https://flyyz.cn/index.php/about.html
+- ✨[About me](https://flyyz.cn/index.php/about.html)
 - ⚡ Java / Python
 - :meat_on_bone: Anime lover
